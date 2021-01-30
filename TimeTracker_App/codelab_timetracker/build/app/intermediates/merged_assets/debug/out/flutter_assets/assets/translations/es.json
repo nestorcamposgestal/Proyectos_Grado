@@ -1,0 +1,42 @@
+{
+  "homePage": "Página principal",
+  "runningTasks": "Tareas activas",
+  "searchByTag": "Búsqueda por tag",
+  "searchByPeriod": "Búsqueda por periodo",
+  "searchByTagResults": "Resultado de la búsqueda por tag",
+  "searchByPeriodResults": "Resultado de la búsqueda por periodo",
+  "delete": "Borrar",
+
+  "projectNotStarted": "Proyecto aún no iniciado",
+  "projectCurrentlyActive": "Desde {}\nActualmente activo.",
+  "taskNotStarted":  "Tarea aún no iniciada",
+  "taskCurrentlyActive": "Desde {}\nActualmente activa.",
+  "FromTo": "Desde: {}\nHasta: {}",
+
+  "initialTimeNotSet": "Tiempo inicial no seleccionado",
+  "finalTimeNotSet": "Tiempo final no seleccionado",
+  "setInitialDate": "Introduce la fecha inicial",
+  "setFinalDate": "Introduce la fecha final",
+  "optionalCPH": "Opcional: Coste por hora (€)",
+
+  "newProject": "Nuevo proyecto",
+  "newTask": "Nueva tarea",
+  "addNewProject": "Añadir nuevo proyecto",
+  "addNewTask": "Añadir nueva tarea",
+  "byTag": "Por tag",
+  "byPeriod": "Por periodo",
+  "Title*": "Nombre*",
+  "addTags": "Tags (separadas por comas)",
+
+  "totalTime": "\nTIEMPO TOTAL: {}\n{}",
+  "finalCost": "Con un coste por hora de {} €, el coste final para este periodo es de {} €",
+  "unableFinalCost": "El coste por hora de {} € se aplicará una vez que el tiempo total en este periodo sea superior a una hora",
+
+  "search": "Buscar",
+  "language": "Idioma",
+  "darkMode": "Modo oscuro",
+
+  "appbarRunning": "En ejecución",
+  "appbarSearch": "Buscar",
+  "appbarSettings": "Opciones"
+}
