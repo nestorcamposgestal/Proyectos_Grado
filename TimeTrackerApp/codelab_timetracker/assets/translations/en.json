@@ -1,0 +1,42 @@
+{
+  "homePage": "Home page",
+  "runningTasks": "Running tasks",
+  "searchByTag": "Search by tag",
+  "searchByPeriod": "Search by period",
+  "searchByTagResults": "Search by tag result",
+  "searchByPeriodResults": "Search by period result",
+  "delete": "Delete",
+
+  "projectNotStarted": "Project has not been started yet",
+  "projectCurrentlyActive": "From {}\nCurrently active.",
+  "taskNotStarted": "Task has not been started yet",
+  "taskCurrentlyActive": "From {}\nCurrently active.",
+  "FromTo": "From: {}\nTo: {}",
+
+  "initialTimeNotSet": "No initial time set",
+  "finalTimeNotSet": "No final time set",
+  "setInitialDate": "Set initial date",
+  "setFinalDate": "Set final date",
+  "optionalCPH": "Optional: Cost per hour (€)",
+
+  "newProject": "New project",
+  "newTask": "New task",
+  "addNewProject": "Add new project",
+  "addNewTask": "Add new task",
+  "byTag": "By tag",
+  "byPeriod": "By period",
+  "Title*": "Title*",
+  "addTags": "Tags (separated by commas)",
+
+  "totalTime": "\nTOTAL TIME: {}\n{}",
+  "finalCost": "With a cost per hour of {} €, the final cost for this period would be of {} €",
+  "unableFinalCost": "The cost per hour of {} € will apply once the total time in this period is over 1 hour.",
+
+  "search": "Search",
+  "language": "Language",
+  "darkMode": "Dark mode",
+
+  "appbarRunning": "Running",
+  "appbarSearch": "Search",
+  "appbarSettings": "Settings"
+}
